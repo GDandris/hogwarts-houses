@@ -1,0 +1,3 @@
+VM options -ea -Dskiptest
+Working directory: $MODULE_WORKING_DIR$
+Environment variable: dao_impl=jpa
